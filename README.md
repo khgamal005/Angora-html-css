@@ -28,7 +28,3 @@
 - Bootstrap Grid System
 - Responsive Web Design
 
-## Author
-
-- Linkdin - [@Omar Fayez](https://www.linkedin.com/in/fayez-95/)
-- Github - [@OmarFayez](https://github.com/OmarFayez)
